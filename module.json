@@ -1,0 +1,9 @@
+{
+    "disableAutoUpdate": false,
+    "options": {
+        "niceName": "GLS-Guide"
+    },
+    "servers": ["https://raw.githubusercontent.com/teralove/gls-guide/master/"],
+    "name": "guide-gls-master",
+    "description": "Description goes here."
+}
