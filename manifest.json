@@ -3,7 +3,7 @@
         "LICENSE": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
         "README.md": "1fe2ca64463c9a775a03ab20cc8b3ae05b1500ff6405ab10ec5c0d709e0931bd",
         "config.json": "699f7c4dcbb573b4faa936d385e1863c0e3da18b68f1c1cadb152d269132627f",
-        "index.js": "f967be48dffd9a5808d70ffe261032e9306d5f4ccd4e018678838754bf0b96c9",
+        "index.js": "e63bfe9cae4e23c1be70b25153483a19cb22d145b942c6d733db788698750743",
         "module.json": "3c61c17719042c12611f3d1927acb177ad2068f9b2f48e268d2de2183422475b"
     },
     "defs": {
@@ -19,6 +19,6 @@
         "S_LOGIN": [12,14],
         "S_SPAWN_BUILD_OBJECT": 2,
         "S_SPAWN_COLLECTION": 4,
-        "S_SPAWN_DROPITEM": 8
+        "S_SPAWN_DROPITEM": 9
     }
 }
